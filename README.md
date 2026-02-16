@@ -1,11 +1,3 @@
 
-  # OnTrack AI Traffic Control Prototype
-
-  This is a code bundle for OnTrack AI Traffic Control Prototype. The original project is available at https://www.figma.com/design/7NaGBD26tO2gbjJiepNV9Q/OnTrack-AI-Traffic-Control-Prototype.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+  # OnTrack AI Traffic Control 
+  On Track is a simple and intuitive productivity app designed to help users manage tasks, set goals, and track their progress efficiently. It provides an organized workspace where users can create to-do lists, set deadlines, monitor completion status, and stay focused on achieving their objectives. 
